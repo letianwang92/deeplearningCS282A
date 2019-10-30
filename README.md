@@ -14,7 +14,6 @@ Public repo for the 2019 Spring CS282A Deep Learning in UC Berkeley
   4. Convolutional Neural Networks(CNN)
   
 ### HW-2
-  1. Fully connected neural networks
-  2. Batch normalization
-  3. Dropout
-  4. Convolutional Neural Networks(CNN)
+  1. Vanillar RNN captioning
+  2. LSTM captioning
+  3. Neural Style Transfering
