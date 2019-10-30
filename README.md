@@ -13,7 +13,7 @@ The rest of the semester, I put more time was on the SLM and heat transfer proje
   3. Dropout
   4. Convolutional Neural Networks(CNN)
   
-### HW-1
+### HW-2
   1. Fully connected neural networks
   2. Batch normalization
   3. Dropout
